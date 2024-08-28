@@ -1,0 +1,54 @@
+.textos{
+    width: 450px;
+    height: 374px;
+    margin-left: 104px;
+    margin-top: 70px;
+    flex: 1;
+    gap: 20px;
+}
+
+.titulo{
+    font-size: 45px;
+    font-weight: 700;
+    width: 400px;
+}
+
+.btnAPP{
+    width: 200px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: #333333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.celularesIMG{
+    margin-right: 104px;
+    padding-top: 65px;
+    height: 500px;
+}
+
+.secao1{
+    display: flex;
+    align-items: center;
+    padding-bottom: 100px;
+    gap: 100px;
+}
+
+.secao2{
+    background-color: #F4F2F2;
+    padding-bottom: 100px;
+}
+
+.titulosec2{
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.IMGcelulares{
+    margin-left: 300px;
+    margin-top: 20px;
+}
