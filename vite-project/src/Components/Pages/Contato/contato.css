@@ -36,6 +36,11 @@
     margin-right: 150px;
 }
 
+.linha{
+    height: 350px;
+    border-left: 2px solid #B9B7B7;
+}
+
 .input-group {
     margin-bottom: 10px;
 }

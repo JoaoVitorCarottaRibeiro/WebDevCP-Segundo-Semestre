@@ -20,6 +20,7 @@ export default function Contato() {
                         </div>
                     </div>
                 </div>
+                <div className="linha"></div>
                 <div className="container-direita">
                     <form>
                         <div className="input-group">
