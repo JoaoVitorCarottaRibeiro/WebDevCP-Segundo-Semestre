@@ -17,7 +17,7 @@ export default function Home() {
                     <img className='IMGcontainer' src="/Imagens/ImgHome.png" alt="ImgHome" />
                 </div>
             </div>
-            <Card />
+            <Card numero={'01'} rede_social={'Youtube'} texto={'Produza conteúdo cativante e conquiste seu público com vídeos de alta qualidade no maior palco digital do mundo.'} numero2={'02'} rede_social2={'Tiktok'} texto2={'Faça sua criatividade brilhar em vídeos curtos e envolventes que vão cativar a comunidade global do TikTok.'} numero3={'03'} rede_social3={'Facebook'} texto3={'Conecte-se com sua audiência de forma autêntica e impactante através de vídeos que se destacam no feed do Facebook.'} numero4={'04'} rede_social4={'Instagram'} texto4={'Compartilhe suas histórias de maneira única e conquiste milhões de likes no Instagram utilizando Stories e Reels.'}/>
         </>
     )
 }
