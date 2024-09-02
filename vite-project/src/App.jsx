@@ -1,4 +1,5 @@
 import './App.css'
+import Card from './Components/Cards/Cards'
 import AppRoutes from './routes'
 
 function App() {
